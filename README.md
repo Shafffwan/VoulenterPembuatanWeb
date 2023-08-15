@@ -3,4 +3,6 @@ Repository ini digunakan sebagai sayembara pencarian voulenter untuk pembuatan w
 
 **\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio)**  
 
-Berikut dafrtar Volunter yang diterima
+Berikut dafrtar Volunter yang diterima :
+
+* Ss Yaya, [ss.yy.id](https://ss.yy.id).
